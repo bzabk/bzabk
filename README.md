@@ -10,6 +10,7 @@
 
 ### 🟣 Facts:
 - 🔬 Interested in AI model architectures
+- 🤖 Active member of the **GOLEM AI Society**.
 - 🌱 Currently exploring **low-level programming** and GPU acceleration using **CUDA**.
 - 📬 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bartoszzabkowski)
 
